@@ -9,7 +9,8 @@ public class Problem9 {
         System.out.println(solution(testVal));
     }
 
-    public boolean solution(int x){
+    //Determine whether an integer is a palindrome. Do this without extra space.
+    boolean solution(int x){
         return false;
     }
 
