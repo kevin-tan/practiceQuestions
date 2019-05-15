@@ -1,6 +1,6 @@
-package main;
+package java;
 
-import main.crackinginterview.OneStackAsQueue;
+import java.crackinginterview.OneStackAsQueue;
 
 public class Driver {
 

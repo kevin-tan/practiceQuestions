@@ -1,4 +1,4 @@
-package main.crackinginterview;
+package java.crackinginterview;
 
 import java.util.Stack;
 

@@ -1,4 +1,4 @@
-package main.elemofprog;
+package java.elemofprog;
 
 public class ElementOfProgramInterview {
 
